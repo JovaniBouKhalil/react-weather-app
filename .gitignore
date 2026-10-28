@@ -1,0 +1,13 @@
+# Keep generated files, credentials, and the original local reference out of the submission.
+node_modules/
+dist/
+playwright-report/
+test-results/
+.env
+.env.*
+!.env.example
+*.local
+*.zip
+.DS_Store
+Thumbs.db
+/weather-dashboard-main/
